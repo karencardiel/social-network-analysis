@@ -29,3 +29,18 @@ The data was manually collected through a Google Form and Instagram research, an
 ## 🧑‍🏫 Instructor
 
 - Didier Gamboa
+
+## 🧪 Example Output
+
+Below is an example of the network graph generated from our analysis:
+
+![image](https://github.com/user-attachments/assets/4674ac49-8129-4368-a349-0a7bf111137b)
+
+This visualization shows the social network colored according to **closeness centrality**.  
+- Nodes with darker or warmer colors (toward red) have higher centrality, indicating greater influence or accessibility within the network.
+- The colorbar on the right reflects the closeness centrality score.
+- The list shows the ranked scores for each individual in the network.
+
+This helps identify key individuals who are most efficiently connected to others in the network.
+
+
